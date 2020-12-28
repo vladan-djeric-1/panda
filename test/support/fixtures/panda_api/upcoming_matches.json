@@ -1,0 +1,185 @@
+[
+  {
+    "begin_at": "2020-12-15T09:00:00Z",
+    "detailed_stats": false,
+    "draw": false,
+    "end_at": null,
+    "forfeit": false,
+    "game_advantage": null,
+    "games": [
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 33783,
+        "length": null,
+        "match_id": 577537,
+        "position": 1,
+        "status": "not_started",
+        "video_url": null,
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 33784,
+        "length": null,
+        "match_id": 577537,
+        "position": 2,
+        "status": "not_started",
+        "video_url": null,
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      },
+      {
+        "begin_at": null,
+        "complete": false,
+        "detailed_stats": false,
+        "end_at": null,
+        "finished": false,
+        "forfeit": false,
+        "id": 33785,
+        "length": null,
+        "match_id": 577537,
+        "position": 3,
+        "status": "not_started",
+        "video_url": null,
+        "winner": {
+          "id": null,
+          "type": "Team"
+        },
+        "winner_type": "Team"
+      }
+    ],
+    "id": 577537,
+    "league": {
+      "id": 4507,
+      "image_url": null,
+      "modified_at": "2020-12-11T18:43:12Z",
+      "name": "UFCA Grand League Cup",
+      "slug": "cs-go-ufca-grand-league-cup",
+      "url": "https://ufca.media/"
+    },
+    "league_id": 4507,
+    "live": {
+      "opens_at": null,
+      "supported": false,
+      "url": null
+    },
+    "live_embed_url": "https://player.twitch.tv/?channel=ufca_en",
+    "match_type": "best_of",
+    "modified_at": "2020-12-15T04:01:03Z",
+    "name": "HauntedFamily vs FATE",
+    "number_of_games": 3,
+    "official_stream_url": "https://www.twitch.tv/ufca_en",
+    "opponents": [
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 127938,
+          "image_url": "https://cdn.dev.pandascore.co/images/team/image/127938/ld_z_yep_n4yvv_wf_tetof_pt6u.png",
+          "location": null,
+          "modified_at": "2020-12-11T19:18:03Z",
+          "name": "HauntedFamily",
+          "slug": "hauntedfamily"
+        },
+        "type": "Team"
+      },
+      {
+        "opponent": {
+          "acronym": null,
+          "id": 126462,
+          "image_url": "https://cdn.dev.pandascore.co/images/team/image/126462/9863.png",
+          "location": "JO",
+          "modified_at": "2020-12-11T19:17:44Z",
+          "name": "FATE",
+          "slug": "fate"
+        },
+        "type": "Team"
+      }
+    ],
+    "original_scheduled_at": "2020-12-15T09:00:00Z",
+    "rescheduled": false,
+    "results": [
+      {
+        "score": 0,
+        "team_id": 127938
+      },
+      {
+        "score": 0,
+        "team_id": 126462
+      }
+    ],
+    "scheduled_at": "2020-12-15T09:00:00Z",
+    "serie": {
+      "begin_at": "2020-12-12T15:00:00Z",
+      "description": null,
+      "end_at": null,
+      "full_name": "Cup #1 2020",
+      "id": 3189,
+      "league_id": 4507,
+      "modified_at": "2020-12-11T19:45:43Z",
+      "name": "Cup #1",
+      "season": null,
+      "slug": "cs-go-ufca-grand-league-cup-cup-1-2020",
+      "tier": "c",
+      "winner_id": null,
+      "winner_type": "Team",
+      "year": 2020
+    },
+    "serie_id": 3189,
+    "slug": "hauntedfamily-vs-fate-2020-12-15",
+    "status": "not_started",
+    "streams": {
+      "english": {
+        "embed_url": "https://player.twitch.tv/?channel=ufca_en",
+        "raw_url": "https://www.twitch.tv/ufca_en"
+      },
+      "official": {
+        "embed_url": "https://player.twitch.tv/?channel=ufca_en",
+        "raw_url": "https://www.twitch.tv/ufca_en"
+      },
+      "russian": {
+        "embed_url": "https://player.twitch.tv/?channel=ufca_ru",
+        "raw_url": "https://www.twitch.tv/ufca_ru"
+      }
+    },
+    "tournament": {
+      "begin_at": "2020-12-14T18:00:00Z",
+      "end_at": null,
+      "id": 5219,
+      "league_id": 4507,
+      "live_supported": false,
+      "modified_at": "2020-12-14T12:01:39Z",
+      "name": "Group B",
+      "prizepool": null,
+      "serie_id": 3189,
+      "slug": "cs-go-ufca-grand-league-cup-cup-1-2020-group-b",
+      "winner_id": null,
+      "winner_type": "Team"
+    },
+    "tournament_id": 5219,
+    "videogame": {
+      "id": 3,
+      "name": "CS:GO",
+      "slug": "cs-go"
+    },
+    "videogame_version": null,
+    "winner": null,
+    "winner_id": null
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "opponent_type": "Team",
+  "opponents": [
+      {
+          "acronym": null,
+          "current_videogame": {
+              "id": 25,
+              "name": "FIFA",
+              "slug": "fifa"
+          },
+          "id": 127954,
+          "image_url": null,
+          "location": null,
+          "modified_at": "2020-10-14T14:12:18Z",
+          "name": "Confession",
+          "players": [],
+          "slug": "confession"
+      },
+      {
+          "acronym": null,
+          "current_videogame": {
+              "id": 25,
+              "name": "FIFA",
+              "slug": "fifa"
+          },
+          "id": 127952,
+          "image_url": null,
+          "location": null,
+          "modified_at": "2020-10-14T14:11:53Z",
+          "name": "Im Not Over",
+          "players": [],
+          "slug": "im-not-over"
+      }
+  ]
+}

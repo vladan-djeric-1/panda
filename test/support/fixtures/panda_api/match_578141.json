@@ -1,0 +1,145 @@
+{
+    "videogame_version": null,
+    "original_scheduled_at": "2020-12-28T16:15:00Z",
+    "name": "Confession vs Im Not Over",
+    "winner": null,
+    "official_stream_url": "https://www.twitch.tv/ligapro1",
+    "modified_at": "2020-12-28T07:02:27Z",
+    "videogame": {
+        "id": 25,
+        "name": "FIFA",
+        "slug": "fifa"
+    },
+    "draw": false,
+    "match_type": "best_of",
+    "number_of_games": 1,
+    "serie_id": 2848,
+    "rescheduled": false,
+    "winner_id": null,
+    "live_embed_url": "https://player.twitch.tv/?channel=ligapro1",
+    "tournament": {
+        "begin_at": "2020-11-09T06:30:00Z",
+        "end_at": null,
+        "id": 5050,
+        "league_id": 4444,
+        "live_supported": false,
+        "modified_at": "2020-11-08T23:02:01Z",
+        "name": "Daily Cups #3",
+        "prizepool": null,
+        "serie_id": 2848,
+        "slug": "fifa-ligapro-2020-daily-cups-3",
+        "winner_id": null,
+        "winner_type": "Team"
+    },
+    "league_id": 4444,
+    "status": "not_started",
+    "slug": "confession-vs-im-not-over-2020-12-28",
+    "end_at": null,
+    "opponents": [
+        {
+            "opponent": {
+                "acronym": null,
+                "id": 127954,
+                "image_url": null,
+                "location": null,
+                "modified_at": "2020-10-14T14:12:18Z",
+                "name": "Confession",
+                "slug": "confession"
+            },
+            "type": "Team"
+        },
+        {
+            "opponent": {
+                "acronym": null,
+                "id": 127952,
+                "image_url": null,
+                "location": null,
+                "modified_at": "2020-10-14T14:11:53Z",
+                "name": "Im Not Over",
+                "slug": "im-not-over"
+            },
+            "type": "Team"
+        }
+    ],
+    "forfeit": false,
+    "begin_at": "2020-12-28T16:15:00Z",
+    "live": {
+        "opens_at": null,
+        "supported": false,
+        "url": null
+    },
+    "league": {
+        "id": 4444,
+        "image_url": "https://cdn.pandascore.co/images/league/image/4444/c3125a9e-e157-4999-b8a3-4c0dc0fff30b-profile_image-300x300.png",
+        "modified_at": "2020-09-11T11:57:57Z",
+        "name": "LigaPro",
+        "slug": "fifa-ligapro",
+        "url": null
+    },
+    "id": 578141,
+    "streams": {
+        "english": {
+            "embed_url": "https://player.twitch.tv/?channel=ligapro1",
+            "raw_url": "https://www.twitch.tv/ligapro1"
+        },
+        "official": {
+            "embed_url": "https://player.twitch.tv/?channel=ligapro1",
+            "raw_url": "https://www.twitch.tv/ligapro1"
+        },
+        "russian": {
+            "embed_url": null,
+            "raw_url": null
+        }
+    },
+    "scheduled_at": "2020-12-28T16:15:00Z",
+    "games": [
+        {
+            "begin_at": null,
+            "complete": false,
+            "detailed_stats": false,
+            "end_at": null,
+            "finished": false,
+            "forfeit": false,
+            "id": 3063,
+            "length": null,
+            "match_id": 578141,
+            "position": 1,
+            "status": "not_started",
+            "video_url": null,
+            "winner": {
+                "id": null,
+                "type": null
+            },
+            "winner_type": null
+        }
+    ],
+    "serie": {
+        "begin_at": "2020-07-20T22:00:00Z",
+        "description": null,
+        "end_at": null,
+        "full_name": "2020",
+        "id": 2848,
+        "league_id": 4444,
+        "modified_at": "2020-12-11T07:38:37Z",
+        "name": "",
+        "season": "",
+        "slug": "fifa-ligapro-2020",
+        "tier": "d",
+        "winner_id": null,
+        "winner_type": null,
+        "year": 2020
+    },
+    "game_advantage": null,
+    "tournament_id": 5050,
+    "results": [
+        {
+            "score": 0,
+            "team_id": 127954
+        },
+        {
+            "score": 0,
+            "team_id": 127952
+        }
+    ],
+    "detailed_stats": false
+}
